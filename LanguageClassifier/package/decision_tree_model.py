@@ -16,6 +16,7 @@ class dt_node:
         self.left = None
         self.right = None
         self.label = label
+        
         self.weight = None
 
 
